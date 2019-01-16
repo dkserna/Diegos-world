@@ -1,0 +1,34 @@
+h1 {
+  color: brown;
+  font-family: Andale Mono, monospace;
+  font-size: 60px;
+  text-align: left;
+  line-height: 90px;
+}
+
+h2 {
+  color: brown;
+  font-family: Andale Mono, monospace;
+  font-style: italic;
+  text-align: left;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+h3 {
+  font-family: Andale Mono, monospace;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+p {
+  font-family: Andale Mono, monospace;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+ul {
+  font-family: Andale Mono, monospace;
+  font-size: 20px;
+  line-height: 30px;
+}
